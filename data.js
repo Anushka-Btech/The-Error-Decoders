@@ -4,19 +4,19 @@ export const attractions = {
     {
       id: "j1",
       name: "Hawa Mahal",
-      img: "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&w=1200&q=60",
+      img: "https://media.istockphoto.com/id/1027216080/photo/hawa-mahal-palace-of-the-winds-jaipur-rajasthan.jpg?s=612x612&w=0&k=20&c=KrPAx2DsH8COKUK-cMKIzZfe987iuCpxoVQUNiHktkU=",
       desc: "The iconic Palace of Winds built with red and pink sandstone.",
     },
     {
       id: "j2",
       name: "Amber Fort",
-      img: "https://images.unsplash.com/photo-1589892839398-5dfd6f0cafec?auto=format&fit=crop&w=1200&q=60",
+      img: "https://s7ap1.scene7.com/is/image/incredibleindia/amber-fort-jaipur-rajasthan-1-attr-hero?qlt=82&ts=1742157903972",
       desc: "Hilltop fort offering stunning sunrise views and elephant rides.",
     },
     {
       id: "j3",
       name: "City Palace",
-      img: "https://images.unsplash.com/photo-1603643642217-5efbeed579fc?auto=format&fit=crop&w=1200&q=60",
+      img: "https://accidentallywesanderson.com/wp-content/uploads/2020/04/City-Palace-India-scaled.jpg",
       desc: "Royal residence featuring courtyards, museums, and architecture.",
     },
   ],
