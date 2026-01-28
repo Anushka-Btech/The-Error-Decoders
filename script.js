@@ -13,14 +13,21 @@ const SAMPLE = {
       {
         id: "a1",
         name: "Hawa Mahal",
-        img: "https://images.unsplash.com/photo-1544213456-b1b1d9f9b1f6?auto=format&fit=crop&w=1200&q=60",
+        img: "https://media.istockphoto.com/id/1027216080/photo/hawa-mahal-palace-of-the-winds-jaipur-rajasthan.jpg?s=612x612&w=0&k=20&c=KrPAx2DsH8COKUK-cMKIzZfe987iuCpxoVQUNiHktkU=",
         desc: "Iconic latticed palace.",
       },
       {
         id: "a2",
         name: "Amber Fort",
-        img: "https://images.unsplash.com/photo-1541233349642-6e425fe6190e?auto=format&fit=crop&w=1200&q=60",
+        img: "https://s7ap1.scene7.com/is/image/incredibleindia/amber-fort-jaipur-rajasthan-1-attr-hero?qlt=82&ts=1742157903972",
         desc: "Hilltop fort with panoramic views.",
+      },
+
+      {
+        id: "a3",
+        name: "City Palace",
+        img: "https://accidentallywesanderson.com/wp-content/uploads/2020/04/City-Palace-India-scaled.jpg",
+        desc: "Royal residence & museums.",
       },
     ],
     udaipur: [
